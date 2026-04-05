@@ -8,8 +8,11 @@ A home lab with 2 Domain Controllers, DNS, DHCP, and a Windows 11 domain-joined 
 
 ## Screenshots
 ### Active Directory Structure
+Domain Controllers
 ![Domain Controllers](screenshots/2.jpg)
+Users
 ![Users](screenshots/3.jpg)
+Computers
 ![Computers](screenshots/4.jpg)
 #### Windows 11 Client
 ![Client](screenshots/6Client.jpg)
