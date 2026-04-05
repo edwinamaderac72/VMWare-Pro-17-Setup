@@ -1,0 +1,8 @@
+#TYPE Selected.Microsoft.ActiveDirectory.Management.ADOrganizationalUnit
+"Name","DistinguishedName"
+"Domain Controllers","OU=Domain Controllers,DC=MAHOGANY,DC=LOCAL"
+"DR","OU=DR,DC=MAHOGANY,DC=LOCAL"
+"Users","OU=Users,OU=DR,DC=MAHOGANY,DC=LOCAL"
+"Groups","OU=Groups,OU=DR,DC=MAHOGANY,DC=LOCAL"
+"Servers","OU=Servers,OU=DR,DC=MAHOGANY,DC=LOCAL"
+"Workstations","OU=Workstations,OU=DR,DC=MAHOGANY,DC=LOCAL"
