@@ -26,6 +26,7 @@ GPO for User
 
 ### GPO for Firewall and general config
 Configs
+
 ![Configs](screenshots/Configs.jpg)
 Firewall
 📄 [View Firewall GPO Rules](configs/firewal/Firewall.md)
