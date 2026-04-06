@@ -28,7 +28,7 @@ GPO for User
 Configs
 ![Configs](screenshots/Configs.jpg)
 Firewall
-![Firwall](configs/firewal/firewall.md)
+configs/firewal/firewall.md
 
 ## Technologies Used
 - VMWare Workstation Pro 17
