@@ -31,7 +31,7 @@ Configs
 
 Firewall
 
-📄 [View Firewall GPO Rules](configs/firewal/)
+📄 [View Firewall GPO Rules](configs/firewal/firewall.md)
 
 ## Technologies Used
 - VMWare Workstation Pro 17
